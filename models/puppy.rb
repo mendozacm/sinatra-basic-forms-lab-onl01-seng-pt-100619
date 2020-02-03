@@ -8,7 +8,7 @@ class Puppy
     @age = age
   end
   
-  def age_in_months
+  def months
     age * 12
   end
   
